@@ -23,4 +23,4 @@ Este é um projeto fullstack que utiliza **Express** e **MongoDB** no backend e 
 Frontend
 6. Next.js (React Framework)
 7. Axios para chamadas de API
-8. styled-components para estilização (opcional)
+8. styled-components para estilização
