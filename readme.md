@@ -15,14 +15,12 @@ Este é um projeto fullstack que utiliza **Express** e **MongoDB** no backend e 
 
 ## Tecnologias Utilizadas
 
-Backend
-Node.js com Express
-MongoDB para banco de dados
-Mongoose para modelagem de dados
-Dotenv para gerenciamento de variáveis de ambiente
+1. Backend
+2. Node.js com Express
+3. MongoDB para banco de dados
+4. Mongoose para modelagem de dados
+5. Dotenv para gerenciamento de variáveis de ambiente
 Frontend
-Next.js (React Framework)
-Axios para chamadas de API
-styled-components para estilização (opcional)
-
----
+6. Next.js (React Framework)
+7. Axios para chamadas de API
+8. styled-components para estilização (opcional)
