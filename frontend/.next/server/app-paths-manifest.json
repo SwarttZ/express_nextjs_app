@@ -1,0 +1,4 @@
+{
+  "/supplier/create/page": "app/supplier/create/page.js",
+  "/(home)/page": "app/(home)/page.js"
+}
