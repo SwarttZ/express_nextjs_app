@@ -11,8 +11,9 @@ Este é um projeto fullstack que utiliza **Express** e **MongoDB** no backend e 
   ├── backend/       # Código do backend (API)
   ├── frontend/      # Código do frontend (Next.js)
   └── README.md      # Documento atual
+```
 
-Tecnologias Utilizadas
+## Tecnologias Utilizadas
 
 Backend
 Node.js com Express
@@ -23,3 +24,5 @@ Frontend
 Next.js (React Framework)
 Axios para chamadas de API
 styled-components para estilização (opcional)
+
+---
